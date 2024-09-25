@@ -1,4 +1,4 @@
-## Oii! eu sou a Ohana
+## Oii! eu sou a Ohana 👋🏻
 
 - 🌱 Estou estudando a área de back-end, com foco em Java e Spring Boot neste momento
 - 💆🏻‍♀️ Hobbies: tenho uma pitbull de 1 aninho, ela é meu principal hobbie e minha terapia gratuita hahaha
