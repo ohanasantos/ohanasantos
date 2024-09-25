@@ -30,4 +30,4 @@
 
 ![Snake animation](https://github.com/ohanasantos/ohanasantos/blob/output/github-contribution-grid-snake.svg)
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?ohanasantos&repo=your_ohanasantos&theme=react)](https://github.com/ohanasantos/ohanasantos)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?ohanasantos=your_ohanasantos&repo=your_ohanasantos&theme=react)](https://github.com/ohanasantos/ohanasantos)
