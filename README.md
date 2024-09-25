@@ -5,8 +5,8 @@
 - 😄 Pronomes: ela/dela
 <div align="center">
   <a href="https://github.com/ohanasantos">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ohanasantos&show_icons=false&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohanasantos&layout=compact&theme=synthwave"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ohanasantos&show_icons=false&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohanasantos&layout=compact&theme=synthwave"/>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Ohana-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
@@ -27,3 +27,9 @@
   <a href = "mailto:ohanacorreia7@hotmail.com"><img src="https://img.shields.io/badge/-hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
