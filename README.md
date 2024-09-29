@@ -1,18 +1,18 @@
 ## Oii! eu sou a Ohana 👋🏻
 
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas na UniFECAF, com foco em Java e Spring Boot neste momento
-- 💆🏻‍♀️ Hobbies: tenho uma pitbull de 1 aninho, ela é meu principal hobbie e minha terapia gratuita hahaha
+🌱 Estudante de Análise e Desenvolvimento de Sistemas na UniFECAF, com foco em Java e Spring Boot neste momento
+<br>
+💆🏻‍♀️ Hobbies: tenho uma pitbull de 1 aninho, ela é meu principal hobbie e minha terapia gratuita hahaha
 
-##
+![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <div align="center">
-  <a href="https://github.com/ohanasantos">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ohanasantos&show_icons=false&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohanasantos&layout=compact&theme=midnight-purple"/>
+
+  [![Ohana GitHub Streak](https://streak-stats.demolab.com/?user=ohanasantos&theme=midnight-purple&hide_border=true&border_radius=4.5&locale=pt_BR&date_format=&mode=weekly&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=solid&properties=background)](https://git.io/streak-stats)
 </div>
 
-##
-
+![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+💻 Tecnologias
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Ohana-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Ohana-SB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
@@ -25,7 +25,7 @@
 </div>
 
 ##
-
+☎️ Contato
 <div align="center">
   <a href="https://instagram.com/ohanacorreia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/channels/@ohanacorreia" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
