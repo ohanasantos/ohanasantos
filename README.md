@@ -1,8 +1,10 @@
 ## Oii! eu sou a Ohana 👋🏻
 
-- 🌱 Estou estudando a área de back-end, com foco em Java e Spring Boot neste momento
+- 🌱 Estudante de Análise e Desenvolvimento de Sistemas na UniFECAF, com foco em Java e Spring Boot neste momento
 - 💆🏻‍♀️ Hobbies: tenho uma pitbull de 1 aninho, ela é meu principal hobbie e minha terapia gratuita hahaha
-- 😄 Pronomes: ela/dela
+
+##
+
 <div align="center">
   <a href="https://github.com/ohanasantos">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ohanasantos&show_icons=false&theme=midnight-purple&include_all_commits=true&count_private=true"/>
