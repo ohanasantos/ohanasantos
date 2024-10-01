@@ -41,7 +41,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 
-### 🌱 Focando neste momento:
+### 🌱 Focando Neste Momento:
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=spring&labelColor=0D1117)&nbsp;
 ![Hibernate](https://img.shields.io/badge/-hibernate-0D1117?style=for-the-badge&logo=hibernate&labelColor=0D1117&textColor=0D1117)&nbsp;
