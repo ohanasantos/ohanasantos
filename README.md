@@ -26,7 +26,7 @@
 [![Principal Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)
 
 ### 👩🏻‍💻 Ferramentas:
-[![Ferramentas](https://skillicons.dev/icons?i=vscode,idea,pycharm,eclipse,git,github)](https://skillicons.dev)
+[![Ferramentas](https://skillicons.dev/icons?i=vscode,idea,pycharm,eclipse,notion,git,github)](https://skillicons.dev)
 
 ### ✏️ Outros Conhecimentos:
 [![Outros Conhecimentos](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
