@@ -23,7 +23,7 @@
 </div> 
  
 ### 🖥️ Principais Skills:
-[![Principal Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)
+[![Principal Skills](https://skillicons.dev/icons?i=java,python,mysql)](https://skillicons.dev)
 
 ### 👩🏻‍💻 Ferramentas:
 [![Ferramentas](https://skillicons.dev/icons?i=vscode,idea,pycharm,eclipse,notion,git,github)](https://skillicons.dev)
@@ -32,7 +32,7 @@
 [![Outros Conhecimentos](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 ### 🌱 Focando Neste Momento:
-[![Focando Agora](https://skillicons.dev/icons?i=java,)](https://skillicons.dev)
+[![Focando Agora](https://skillicons.dev/icons?i=java,mysql)](https://skillicons.dev)
 
 <div align="center">
 <br><p align="centre"><b>Contagem de Visitantes</b></p>  
