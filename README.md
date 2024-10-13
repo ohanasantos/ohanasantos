@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fredoka&color=FFFFFF&size=25&center=true&vCenter=true&width=1000&lines=Oii!+eu+sou+a+Ohana+👋🏻;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas+na+Impacta+Tecnologia+🤖;)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fredoka&color=FFFFFF&size=25&center=true&vCenter=true&width=1000&lines=Oii!+eu+sou+a+Ohana+👋🏻;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas+na+Impacta+Tecnologia+🏫;)](https://git.io/typing-svg) 
 
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
