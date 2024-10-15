@@ -22,16 +22,16 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> 
  
-### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25px" align="top" alt="Rocket Emoji"/> Principais Skills:</div>
+#### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="20px" align="top" alt="Rocket Emoji"/> Principais Skills:</div>
 [![Principal Skills](https://skillicons.dev/icons?i=java,python,mysql)](https://skillicons.dev)
 
-### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25px" align="top" /> Ferramentas:</div>
-[![Ferramentas](https://skillicons.dev/icons?i=vscode,idea,pycharm,eclipse,notion,git,github)](https://skillicons.dev)
+#### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="20px" align="top" /> Ferramentas:</div>
+[![Ferramentas](https://skillicons.dev/icons?i=vscode,idea,pycharm,eclipse,git,github)](https://skillicons.dev)
 
-### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25px" align="top" /> Outros Conhecimentos:</div>
+#### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="20px" align="top" /> Outros Conhecimentos:</div>
 [![Outros Conhecimentos](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
-### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain Emoji" width="25px" align="top" /> Focando Neste Momento:</div>
+#### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain Emoji" width="20px" align="top" /> Focando Neste Momento:</div>
 [![Focando Agora](https://skillicons.dev/icons?i=java,mysql)](https://skillicons.dev)
 
 <div align="center">
