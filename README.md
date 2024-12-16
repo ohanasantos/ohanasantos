@@ -11,7 +11,7 @@
   [![Ohana GitHub Streak](https://streak-stats.demolab.com/?user=ohanasantos&theme=midnight-purple&hide_border=true&border_radius=4.5&locale=pt_BR&date_format=&mode=weekly&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=solid&properties=background)](https://git.io/streak-stats)
 </div>
 
-![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+##
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ohanasantos&bg_color=000000&color=550974FF&line=A020F0&point=ADD8E6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
