@@ -1,6 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fredoka&color=FFFFFF&size=25&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Ohana+👋🏻;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas+na+Impacta+Tecnologia+💻;CX+Analyst+na+Vivo+-+Telefônica+Brasil+💜)](https://git.io/typing-svg) 
+<code>System.out.println("Hello World, eu sou a Ohana!👋🏻");</code>
 
-![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+##
+<p>🎓 Graduanda de Análise e Desenvolvimento de Sistemas na <a href="https://www.impacta.edu.br/" target="blank_">Impacta Tecnologia</a></p>
+<p>💜 CX Analyst na Vivo - Telefônica Brasil</p>
+
+##
 
 <div align="center">
 
