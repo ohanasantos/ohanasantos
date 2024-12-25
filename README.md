@@ -26,10 +26,10 @@
 [![Principal Skills](https://skillicons.dev/icons?i=java,js,mysql)](https://skillicons.dev)
 
 ### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="23px" align="top" /> Outros Conhecimentos:</div>
-[![Outros Conhecimentos](https://skillicons.dev/icons?i=spring,mongodb,nodejs)](https://skillicons.dev)
+[![Outros Conhecimentos](https://skillicons.dev/icons?i=spring,mongodb,html,css)](https://skillicons.dev)
 
 ### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain Emoji" width="23px" align="top" /> Focando Neste Momento:</div>
-[![Focando Agora](https://skillicons.dev/icons?i=js,nodejs,react,mongodb)](https://skillicons.dev)
+[![Focando Agora](https://skillicons.dev/icons?i=java,spring,mongodb)](https://skillicons.dev)
 
 <div align="center">
 <br><p align="centre"><b>Contagem de Visitantes</b></p>  
