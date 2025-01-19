@@ -2,7 +2,6 @@
 
 ##
 <p>🎓 Graduanda de Análise e Desenvolvimento de Sistemas na <a href="https://www.impacta.edu.br/" target="blank_">Impacta Tecnologia</a></p>
-<p>💜 CX Analyst na Vivo - Telefônica Brasil</p>
 
 ##
 
