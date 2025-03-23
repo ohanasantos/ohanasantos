@@ -1,7 +1,9 @@
 <code>System.out.println("Hello World, eu sou a Ohana!👋🏻");</code>
 
 ##
-<p>🎓 Graduanda de Análise e Desenvolvimento de Sistemas na <a href="https://www.impacta.edu.br/" target="blank_">Impacta Tecnologia</a></p>
+<p>🎓 Graduanda de Análise e Desenvolvimento de Sistemas at <a href="https://www.impacta.edu.br/" target="blank_">Impacta Tecnologia</a></p>
+<p>✈️ English Level B1</p>
+<p>💜 Cybersecurity Intern at Vivo (Telefônica Brasil)</p>
 
 ##
 
