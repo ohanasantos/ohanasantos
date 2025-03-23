@@ -2,7 +2,7 @@
 
 ##
 <p>🎓 Graduanda de Análise e Desenvolvimento de Sistemas at <a href="https://www.impacta.edu.br/" target="blank_">Impacta Tecnologia</a></p>
-<p>✈️ English Level B1</p>
+<p>✈️ B1 Intermediary English Level</p>
 <p>💜 Cybersecurity Intern at Vivo (Telefônica Brasil)</p>
 
 ##
